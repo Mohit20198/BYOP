@@ -1,6 +1,6 @@
 # SmartFlow: Traffic & Lane Violation System
 
-SmartFlow is a next-generation smart city dashboard designed for real-time metropolitan traffic management. By leveraging the power of Gemini AI, it transforms standard traffic camera feeds into intelligent data streams, detecting vehicle counts, estimating speeds, and identifying complex lane violations automatically.
+SmartFlow is a next-generation smart city dashboard designed for real-time metropolitan traffic management. it transforms standard traffic camera feeds into intelligent data streams, detecting vehicle counts, estimating speeds, and identifying complex lane violations automatically.
 
 ## 🚀 Features
 
@@ -14,7 +14,6 @@ SmartFlow is a next-generation smart city dashboard designed for real-time metro
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 19, TypeScript, Vite
-- **AI**: @google/genai (Gemini 3 Flash)
 - **Styling**: Tailwind CSS 4
 - **Animations**: Framer Motion
 - **Charts**: Recharts
