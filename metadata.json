@@ -1,0 +1,7 @@
+{
+  "name": "SmartFlow: Traffic & Lane Violation System",
+  "description": "A smart city dashboard for real-time traffic flow monitoring and automated lane violation detection using AI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
